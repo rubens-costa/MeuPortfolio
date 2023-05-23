@@ -3,7 +3,7 @@
 }
 
 .portfolio {
-    background-image: url(https://raw.githubusercontent.com/rubens-costa/MeuPortfolio/main/assets/img/apresentacaoProjeto1.png);
+    background-image: url('../img/apresentacaoProjeto1.png');
     background-size: cover;
 }
 
