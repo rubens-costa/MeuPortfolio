@@ -1,4 +1,4 @@
-<h1>💻 <a href="https://rubens-costa.vercel.app/"> Portfólio </a></h1>
+<h1>💻<a href="https://rubens-costa.vercel.app/"> Portfólio </a></h1>
 <h2> Descrição </h2>
 
 <p>Aplicação web criada para exibição de meu Portfólio. Desenvolvida com as tecnologias:</p>
