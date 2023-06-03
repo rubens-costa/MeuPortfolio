@@ -7,6 +7,11 @@
     background-size: cover;
 }
 
+.contador {
+    background-image: url('../img/apresentacaoProjeto2.png');
+    background-size: cover;
+}
+
 .projetos {
     padding-top: 93px;
 }
