@@ -17,6 +17,11 @@
     background-size: cover;
 }
 
+.tarefeiro {
+    background-image: url('../img/apresentacaoProjeto4.png');
+    background-size: cover;
+}
+
 .projetos {
     padding-top: 93px;
 }
