@@ -12,6 +12,11 @@
     background-size: cover;
 }
 
+.automacao {
+    background-image: url('../img/apresentacaoProjeto3.png');
+    background-size: cover;
+}
+
 .projetos {
     padding-top: 93px;
 }
