@@ -53,6 +53,12 @@
     max-width: 40%;
 }
 
+@media (min-width:1200px) {
+    #habilidades {
+        height: 500px;
+    }
+}
+
 @media (max-width:1200px) {
 
     .conteiner-descricao {
