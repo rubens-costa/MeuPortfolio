@@ -22,6 +22,16 @@
     background-size: cover;
 }
 
+.siteCarine {
+    background-image: url('../img/apresentacaoProjeto5.png');
+    background-size: cover;
+}
+
+.contadorDinamico {
+    background-image: url('../img/apresentacaoProjeto6.png');
+    background-size: cover;
+}
+
 .projetos {
     padding-top: 93px;
 }

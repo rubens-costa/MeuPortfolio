@@ -110,18 +110,26 @@
 }
 
 .skill1 {
-    background-image: url(../img/cypress2.svg);
+    background-image: url(../img/html2.svg);
 }
 
 .skill2 {
-    background-image: url(../img/js2.svg);
+    background-image: url(../img/css2.svg);
 }
 
 .skill3 {
-    background-image: url(../img/git2.svg);
+    background-image: url(../img/js2.svg);
 }
 
 .skill4 {
+    background-image: url(../img/cypress2.svg);
+}
+
+.skill5 {
+    background-image: url(../img/git2.svg);
+}
+
+.skill6 {
     background-image: url(../img/github2.svg);
 }
 
